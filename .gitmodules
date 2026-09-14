@@ -1,0 +1,6 @@
+[submodule "thirdparty/--depth=1"]
+	path = thirdparty/--depth=1
+	url = https://github.com/nemequ/munit
+[submodule "thirdparty/munit"]
+	path = thirdparty/munit
+	url = https://github.com/nemequ/munit
