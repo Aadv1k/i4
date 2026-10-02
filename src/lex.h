@@ -19,11 +19,8 @@ typedef enum {
 
 typedef struct Token {
     TokenType type;
-
     const char* buf;
     size_t buf_len;
-
-    size_t line, col;
 } Token;
 
 
